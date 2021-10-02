@@ -35,8 +35,10 @@
 
 ##
 
-<img src="./screenshots/login.png" width="250px"/>
-<img src="./screenshots/comidas.png" width="250px"/>
+<img src="./screenshots/login.png" width="250px" alt="Tela de login"/>
+<img src="./screenshots/comidas.png" width="250px" alt="Tela de comidas"/>
+<img src="./screenshots/perfil.png" width="250px" alt="Tela de perfil"/>
+<img src="./screenshots/explorar.png" width="250px" alt="tela de explorar"/>
 
 <section>
   <h3>PESSOAS DESENVOLVEDORAS:</h2>
