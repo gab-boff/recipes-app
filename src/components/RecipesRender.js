@@ -16,10 +16,10 @@ export default function RecipesRender() {
   const history = useHistory();
   const location = useLocation();
   const sizeCards = 12;
+  
+  useEffect(() => {
   const FOOD_CARDS_URL = (filteredIngredient === '') ? 'https://www.themealdb.com/api/json/v1/1/search.php?s=' : `https://www.themealdb.com/api/json/v1/1/filter.php?i=${filteredIngredient}`;
   const DRINK_CARDS_URL = (filteredIngredient === '') ? 'https://www.thecocktaildb.com/api/json/v1/1/search.php?s=' : `https://www.thecocktaildb.com/api/json/v1/1/filter.php?i=${filteredIngredient}`;
-
-  useEffect(() => {
     const foodsRequest = async () => {
       const response = await fetch(FOOD_CARDS_URL);
       const data = await response.json();
