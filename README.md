@@ -57,3 +57,8 @@
       </li>
     </ul>
 </section>
+
+<section>
+  <h2>CONSIDERAÇÃO FINAL</h2>
+  <p>Este projeto foi criado apenas por razões didáticas, sem nenhum objetivo além desse.</p>
+</section>
