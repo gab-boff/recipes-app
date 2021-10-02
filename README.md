@@ -36,6 +36,7 @@
 ##
 
 <img src="./screenshots/login.png" width="250px"/>
+<img src="./screenshots/comidas.png" width="250px"/>
 
 <section>
   <h3>PESSOAS DESENVOLVEDORAS:</h2>
