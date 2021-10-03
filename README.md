@@ -33,6 +33,8 @@
     <li>Clone o repositório.</li>
     <li>Na raiz do projeto utilize o comando <b>npm install</b>.</li>
     <li>Agora utilize o comando <b>npm start</b>.</li>
+    <br />
+    <li>É necessário por um email qualquer e uma senha de no mínimo 6 dígitos.</li>
   </ol>
 </section>
 
